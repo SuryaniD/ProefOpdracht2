@@ -1,1 +1,1 @@
-# ProefOpdracht2
+# ProefOpdracht2 Information Display
